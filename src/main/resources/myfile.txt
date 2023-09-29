@@ -1,0 +1,4 @@
+You should use the constructor approach,
+when you want to create a new instance of the object,
+with the values already populated
+(a ready to use object with value populated).
